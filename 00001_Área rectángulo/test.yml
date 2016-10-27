@@ -1,8 +1,9 @@
-subject: area
+subject: areap
 
 examples:
  - arguments:
-    - 'Rectangulo(base <- 10, altura <- 10)'
+    - 10
+    - 10
    return: 100
    initial_board: |
     GBB/1.0

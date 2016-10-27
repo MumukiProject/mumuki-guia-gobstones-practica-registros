@@ -1,0 +1,3 @@
+function areap(b, a) {
+  return (area(Rectangulo(base <- b, altura <- a)))
+}
