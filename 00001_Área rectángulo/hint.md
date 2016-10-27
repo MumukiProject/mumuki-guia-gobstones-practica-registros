@@ -7,7 +7,7 @@ type Celular is record {
 }
 ```
 
-Automáticamente quedan disponibles funciones que permite inspeccionar los campos del registro, que se llaman igual que el campo: 
+Automáticamente quedan disponibles funciones que permite inspeccionar los campos del registro, que se llaman igual que el campo. Ejemplos:  
 
 ```puppet
 program {
