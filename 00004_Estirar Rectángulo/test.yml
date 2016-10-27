@@ -4,7 +4,7 @@ examples:
  - arguments:
     - 'crearRectangulo(10, 10, Rojo)'
     - 2
-   return: 'Rectangulo(base <- 20, altura <- 20, color <- Rojo)'
+   return: 'Rectangulo(color <- Rojo, base <- 20, altura <- 20)'
    initial_board: |
     GBB/1.0
     size 4 4
