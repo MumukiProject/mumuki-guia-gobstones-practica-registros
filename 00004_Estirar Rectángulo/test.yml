@@ -1,0 +1,19 @@
+subject: estirar
+
+examples:
+ - arguments:
+    - 'crearRectangulo(10, 10, Rojo)'
+    - 2
+   return: 'Rectangulo(20, 20, Rojo)'
+   initial_board: |
+    GBB/1.0
+    size 4 4
+    head 0 0   
+ - arguments:
+    - 'crearRectangulo(3, 4, Verde)'
+    - 5
+   return: 'Rectangulo(15, 20, Verde)'
+   initial_board: |
+    GBB/1.0
+    size 4 4
+    head 0 0   
