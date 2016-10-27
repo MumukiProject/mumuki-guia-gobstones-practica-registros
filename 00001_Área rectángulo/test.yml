@@ -1,4 +1,4 @@
-subject: areap
+subject: probarAreaConRectangulo
 
 examples:
  - arguments:
@@ -10,7 +10,8 @@ examples:
     size 4 4
     head 0 0   
  - arguments:
-    - 'Rectangulo(base <- 2, altura <- 10)'
+    - 2
+    - 10
    return: 20
    initial_board: |
     GBB/1.0
