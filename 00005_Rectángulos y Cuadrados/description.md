@@ -1,4 +1,6 @@
-Necesitamos representar a un rectángulo mediante un registro. Por ejemplo, un rectángulo de 10 x 10 unidades se representa así: `Rectangulo(base <- 10, altura <- 10)`. 
+Necesitamos representar a un rectángulo mediante un registro. 
+
+Por ejemplo, un rectángulo de 10 x 10 unidades se representa así: `Rectangulo(base <- 10, altura <- 10)`. 
 
 > Declará al registro `Rectangulo`. 
 > 
