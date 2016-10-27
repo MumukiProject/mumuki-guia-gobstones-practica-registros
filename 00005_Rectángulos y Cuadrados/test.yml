@@ -4,14 +4,6 @@ examples:
  - arguments:
     - 10
    return: 'Rectangulo(base <- 10, altura <- 10)'
-   initial_board: |
-    GBB/1.0
-    size 4 4
-    head 0 0   
  - arguments:
     - 5
    return: 'Rectangulo(base <- 5, altura <- 5)'
-   initial_board: |
-    GBB/1.0
-    size 4 4
-    head 0 0   
