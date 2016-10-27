@@ -1,0 +1,3 @@
+function crearRectangulo(b, a) {
+  return (Rectangulo(base <- b, altura <- a))
+}
