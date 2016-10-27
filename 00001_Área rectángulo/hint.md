@@ -9,7 +9,7 @@ type Celular is record {
 
 Automáticamente quedan disponibles funciones que permite inspeccionar los campos del registro, que se llaman igual que el campo: 
 
-```
+```puppet
 program {
   unCelular := Celular(numero <- 152200000000, compania <- claro())
   
@@ -18,3 +18,4 @@ program {
   return (numero(unCelular))
 }
 ```
+
