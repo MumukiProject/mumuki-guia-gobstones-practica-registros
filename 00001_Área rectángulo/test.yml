@@ -1,0 +1,17 @@
+subject: area
+
+examples:
+ - arguments:
+    - 'Rectangulo(base <- 10, altura <- 10)'
+   return: 100
+   initial_board: |
+    GBB/1.0
+    size 4 4
+    head 0 0   
+ - arguments:
+    - 'Rectangulo(base <- 2, altura <- 10)'
+   return: 20
+   initial_board: |
+    GBB/1.0
+    size 4 4
+    head 0 0   
