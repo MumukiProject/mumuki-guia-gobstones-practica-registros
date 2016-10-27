@@ -9,8 +9,7 @@ examples:
     size 4 4
     head 0 0   
  - arguments:
-    - 2
-    - 10
+    - 'crearRectangulo(2, 10)'
    return: 20
    initial_board: |
     GBB/1.0
