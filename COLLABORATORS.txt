@@ -1,0 +1,1 @@
+Esta guía utiliza textos derivados de https://github.com/pdep-utn/mumuki-guia-funcional-modelado y  http://inpr.web.unq.edu.ar/?dl_id=52
