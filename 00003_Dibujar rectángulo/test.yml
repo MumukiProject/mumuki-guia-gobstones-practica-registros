@@ -34,7 +34,7 @@ examples:
     cell 1 2 Rojo 1
     cell 2 2 Rojo 1
     head 1 1 
-- arguments:
+ - arguments:
     - 'crearRectangulo(2, 2, Azul)'
    initial_board: |
     GBB/1.0
