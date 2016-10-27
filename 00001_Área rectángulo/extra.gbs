@@ -1,3 +1,7 @@
 function probarAreaConRectangulo(b, a) {
   return (area(Rectangulo(base <- b, altura <- a)))
 }
+
+function crearRectangulo(b, a) {
+  return (Rectangulo(base <- b, altura <- a))
+}
