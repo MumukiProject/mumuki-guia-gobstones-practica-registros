@@ -1,0 +1,1 @@
+Recordá que el perímetro de un rectángulo se calcula como `2 * base + 2 * altura`
