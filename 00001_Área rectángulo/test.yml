@@ -2,7 +2,7 @@ subject: area
 
 examples:
  - arguments:
-    - 'crearRectangulo(10, 10)'
+    - 'Rectangulo(base <- 10, altura <- 10)'
    return: 100
    initial_board: |
     GBB/1.0
