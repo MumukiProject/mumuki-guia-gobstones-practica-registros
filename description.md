@@ -10,7 +10,7 @@ kilogramosDeMaiz := 22
 tipoDeMaiz = transgenico() 
 ```
 
-Pero esto sólo nos sirve para modelar cosas muy sencillas. Representar una persona, un automóvil, una votación, una nota musical, un deseo, un suceso en un capítulo de Zamba, la transformación de un Pokémon o de Gokú, etc requieren de una nueva forma de representar información: registros :sunglasses:.
+Pero esto sólo nos sirve para modelar cosas muy sencillas. Representar una persona, un automóvil, una votación, una nota musical, un deseo, un suceso en un capítulo de Zamba, la transformación de un Pokémon o de Gokú, etc., requieren de una nueva forma de representar información: registros :sunglasses:.
 
 Un registro es una forma de agrupar un conjunto de campos (datos), que: 
 
