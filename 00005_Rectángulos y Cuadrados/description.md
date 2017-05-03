@@ -6,7 +6,7 @@ Por ejemplo, un rectángulo de 10 x 10 unidades se representa así: `Rectangulo(
 > 
 > Además, declará una función `cuadrado`, que nos permita crear rectangulos con igual base y altura. Por ejemplo la siguiente expresión: 
 > 
-> ```puppet
+> ```gobstones
 > cuadrado(10)
 > ```
 > 

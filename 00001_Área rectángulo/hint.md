@@ -1,6 +1,6 @@
 Recordá que las funciones observadoras de campos son tus amigas. Por ejemplo, si declarás un registro Celular: 
 
-```puppet
+```gobstones
 type Celular is record {
    field numero
    field compania
@@ -9,7 +9,7 @@ type Celular is record {
 
 Automáticamente quedan disponibles funciones que permite inspeccionar los campos del registro, que se llaman igual que el campo. Ejemplos:  
 
-```puppet
+```gobstones
 program {
   unCelular := Celular(numero <- 152200000000, compania <- cloro())
   
@@ -20,7 +20,7 @@ program {
 ```
 
 
-```puppet
+```gobstones
 program {
   //de igual forma existe una 
   //función compania, que toma un registro y 

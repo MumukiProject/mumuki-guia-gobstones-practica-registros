@@ -2,7 +2,7 @@ Hagamos un último ejercicio con rectángulos: queremos poder redimensionarlos. 
 
 Por ejemplo, el programa: 
 
-```puppet 
+```gobstones 
 program {
   return (estirar(Rectangulo(base <- 2, altura <- 5, color <- Azul), 3))
 }
